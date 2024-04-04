@@ -1,0 +1,63 @@
+fileFormatVersion: 2
+guid: 8e7240e9700bf7447b8c1ab2dc637e59
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\scene.bin
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\scene.bin
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly_XSIPOLYCLS.underground1_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly_XSIPOLYCLS.underground1_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly1_XSIPOLYCLS.qblock_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly1_XSIPOLYCLS.qblock_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly2_XSIPOLYCLS.pipetop1_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly2_XSIPOLYCLS.pipetop1_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly3_XSIPOLYCLS.pipe1_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly3_XSIPOLYCLS.pipe1_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly4_XSIPOLYCLS.qblocktop_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly4_XSIPOLYCLS.qblocktop_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\material_0_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\material_0_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly6_XSIPOLYCLS.flagblock_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly6_XSIPOLYCLS.flagblock_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly8_XSIPOLYCLS.brick1_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly8_XSIPOLYCLS.brick1_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly12_XSIPOLYCLS.castleside1_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly12_XSIPOLYCLS.castleside1_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly17_XSIPOLYCLS.castle_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly17_XSIPOLYCLS.castle_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly18_XSIPOLYCLS.flag_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly18_XSIPOLYCLS.flag_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly19_XSIPOLYCLS.underbrick_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly19_XSIPOLYCLS.underbrick_baseColor.png
+  - type: 0
+    originalUri: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly20_XSIPOLYCLS.coins_baseColor.png
+    assetPath: Assets\3DModels\SuperMarioLevel1_1\textures\zeimport_poly20_XSIPOLYCLS.coins_baseColor.png
+  reportItems: []

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Voxel coin
+* source:	https://sketchfab.com/3d-models/voxel-coin-b09037367ed949b4b4aad5068b080b67
+* author:	u n i v e r s e (https://sketchfab.com/universes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Voxel coin" (https://sketchfab.com/3d-models/voxel-coin-b09037367ed949b4b4aad5068b080b67) by u n i v e r s e (https://sketchfab.com/universes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

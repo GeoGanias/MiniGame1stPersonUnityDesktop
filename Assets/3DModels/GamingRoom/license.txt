@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gaming Room
+* source:	https://sketchfab.com/3d-models/gaming-room-47c7c39f767e40eb84d1b1d857af525b
+* author:	Vincent (https://sketchfab.com/vboichut)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gaming Room" (https://sketchfab.com/3d-models/gaming-room-47c7c39f767e40eb84d1b1d857af525b) by Vincent (https://sketchfab.com/vboichut) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snes Reworked
+* source:	https://sketchfab.com/3d-models/snes-reworked-459939cff0f3443b946adaf8b3d0d7b8
+* author:	Manny Ruiz (https://sketchfab.com/MannyRuiz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snes Reworked" (https://sketchfab.com/3d-models/snes-reworked-459939cff0f3443b946adaf8b3d0d7b8) by Manny Ruiz (https://sketchfab.com/MannyRuiz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

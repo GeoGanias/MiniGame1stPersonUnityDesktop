@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: de12fd4ed592be34bac2f68562d381cc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\My3DModels\PokemonCenter\scene.bin
+    assetPath: Assets\My3DModels\PokemonCenter\scene.bin
+  - type: 0
+    originalUri: Assets\My3DModels\PokemonCenter\textures\RSE_mat_baseColor.png
+    assetPath: Assets\My3DModels\PokemonCenter\textures\RSE_mat_baseColor.png
+  - type: 0
+    originalUri: Assets\My3DModels\PokemonCenter\textures\RSE_pokeball_baseColor.png
+    assetPath: Assets\My3DModels\PokemonCenter\textures\RSE_pokeball_baseColor.png
+  - type: 0
+    originalUri: Assets\My3DModels\PokemonCenter\textures\RSE_misc_baseColor.png
+    assetPath: Assets\My3DModels\PokemonCenter\textures\RSE_misc_baseColor.png
+  reportItems: []

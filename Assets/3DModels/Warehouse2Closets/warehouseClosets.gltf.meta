@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: 497571e718c5be8499fad5fff311716e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\scene.bin
+    assetPath: Assets\3DModels\Warehouse2Closets\scene.bin
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Metal21-basecolor_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Metal21-basecolor_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Metal21-basecolor_metallicRoughness.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Metal21-basecolor_metallicRoughness.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Metal21-basecolor_normal.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Metal21-basecolor_normal.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Block_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Block_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Block_metallicRoughness.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Block_metallicRoughness.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Block_normal.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Block_normal.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Cement02_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Cement02_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Cement02_metallicRoughness.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Cement02_metallicRoughness.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Cement02_normal.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Cement02_normal.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\blackout_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\blackout_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\SheetMetal_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\SheetMetal_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\SheetMetal_normal.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\SheetMetal_normal.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Door1_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Door1_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Door1_metallicRoughness.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Door1_metallicRoughness.png
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Glass_baseColor.jpeg
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Glass_baseColor.jpeg
+  - type: 0
+    originalUri: Assets\3DModels\Warehouse2Closets\textures\Glass_metallicRoughness.png
+    assetPath: Assets\3DModels\Warehouse2Closets\textures\Glass_metallicRoughness.png
+  reportItems:
+  - type: 0
+    code: 36
+    messages:
+    - Lines
